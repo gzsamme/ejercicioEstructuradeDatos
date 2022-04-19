@@ -1,0 +1,15 @@
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\bin\Debug\net6.0\EstructuraDeDatosCai.exe
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\bin\Debug\net6.0\EstructuraDeDatosCai.deps.json
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\bin\Debug\net6.0\EstructuraDeDatosCai.runtimeconfig.json
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\bin\Debug\net6.0\EstructuraDeDatosCai.dll
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\bin\Debug\net6.0\EstructuraDeDatosCai.pdb
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.csproj.AssemblyReference.cache
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.AssemblyInfoInputs.cache
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.AssemblyInfo.cs
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.csproj.CoreCompileInputs.cache
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.dll
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\refint\EstructuraDeDatosCai.dll
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.pdb
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\EstructuraDeDatosCai.genruntimeconfig.cache
+D:\Facultad\CAI\ejercicioEstructuradeDatos\EstructuraDeDatosCai\obj\Debug\net6.0\ref\EstructuraDeDatosCai.dll
