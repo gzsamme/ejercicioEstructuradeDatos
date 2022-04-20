@@ -30,7 +30,7 @@ namespace EstructuraDeDatosCai
             string Nombre;
             string Apellido;
             DateTime FechaNacimiento;
-            string msj = "";
+            string lista = "";
 
             while (true)
             {
@@ -86,11 +86,21 @@ namespace EstructuraDeDatosCai
                     break;
                     
                 }
-
+                break;
                 Persona P = new Persona(DNI, Nombre, Apellido, FechaNacimiento);
                 Personas.Add(P);
-                break;
-            }     
+                
+            }
+
+            Console.WriteLine("Se guardo una nueva persona con el nombre: " + Nombre);
+
+            foreach (Persona P in Personas)
+            {
+                lista += Nombre + System.Environment.NewLine;
+            }
+            Console.WriteLine("Lista: " + lista);
+
+
 
         }
     }
