@@ -92,13 +92,7 @@ namespace EstructuraDeDatosCai
                 
             }
 
-            Console.WriteLine("Se guardo una nueva persona con el nombre: " + Nombre);
-
-            foreach (Persona P in Personas)
-            {
-                lista += Nombre + System.Environment.NewLine;
-            }
-            Console.WriteLine("Lista: " + lista);
+            Console.WriteLine("Se guardo una nueva persona con el nombre: " + Nombre);           
 
 
 
