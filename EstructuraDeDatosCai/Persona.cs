@@ -6,17 +6,13 @@ using System.Threading.Tasks;
 
 namespace EstructuraDeDatosCai
 {
-    public class Persona
+    internal class Persona
     {
-        int DNI { get; set; }
-        string Nombre { get; set; }
-        string Apellido { get; set; }
-        DateTime FechaNac { get; set; }
-
-        public Persona()
-        {
-
-        }
+        public int DNI { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public DateTime FechaNac { get; set; }
+        
 
         public Persona(int dni, string nombre, string apellido, DateTime fechanacimiento)
         {
@@ -25,5 +21,7 @@ namespace EstructuraDeDatosCai
             Apellido = apellido;
             FechaNac = fechanacimiento;
         }
+
+
     }
 }

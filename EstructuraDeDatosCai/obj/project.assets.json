@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facultad\\CAI\\ejercicioEstructuradeDatos\\EstructuraDeDatosCai\\EstructuraDeDatosCai.csproj",
-      "projectName": "EstructuraDeDatosCai",
-      "projectPath": "D:\\Facultad\\CAI\\ejercicioEstructuradeDatos\\EstructuraDeDatosCai\\EstructuraDeDatosCai.csproj",
+      "projectUniqueName": "D:\\Facultad\\CAI\\ejercicioEstructuradeDatos\\EstructuraDeDatosCai\\EstructuraDeDatosCaiEj1.csproj",
+      "projectName": "EstructuraDeDatosCaiEj1",
+      "projectPath": "D:\\Facultad\\CAI\\ejercicioEstructuradeDatos\\EstructuraDeDatosCai\\EstructuraDeDatosCaiEj1.csproj",
       "packagesPath": "C:\\Users\\Gong\\.nuget\\packages\\",
       "outputPath": "D:\\Facultad\\CAI\\ejercicioEstructuradeDatos\\EstructuraDeDatosCai\\obj\\",
       "projectStyle": "PackageReference",
